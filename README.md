@@ -1,0 +1,2 @@
+# Beginner-Python-Project-Pack-
+A project pack of 10 beginner Python Projects. 
